@@ -19,4 +19,4 @@ O arquivo **index.js** na raiz do projeto, realiza algumas configurações tais 
 
 Após a instalação das dependências do projeto (podendo ser instalada utilizando o gerenciador de pacotes npm ou yarn), basta executar o seguinte comando: **node index.js** na raiz do projeto; 
 
-Para testar o recurso de contact utilize o [Postman](https://www.getpostman.com/)
+Para testar o recurso de contact utilize o [Postman](https://www.getpostman.com/){:target="_blank"}
